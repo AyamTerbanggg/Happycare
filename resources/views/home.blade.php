@@ -9,7 +9,7 @@
         <div class="row align-items-center">
             <div class="col-lg-6" data-aos="fade-up" data-aos-duration="1000">
                 <h1 class="display-5 fw-bold mb-4" data-aos="fade-up" data-aos-delay="100">
-                    Sehat dan Bahagia Bersama <span class="text-warning">HappyCare</span>
+                    Sehat dan Bahagia Bersama <span class="text-warning">kelompok 3</span>
                 </h1>
                 <p class="lead mb-4" data-aos="fade-up" data-aos-delay="200">
                     Temukan rumah sakit terbaik dan destinasi wisata menarik di Jawa Tengah. 
